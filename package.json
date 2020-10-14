@@ -1,6 +1,6 @@
 {
   "name": "@paraboly/react-native-bouncy-circle-button",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fully customizable bouncy animated circle button for React Native by Paraboly",
   "main": "./build/dist/BouncyCircleButton.js",
   "repository": "git@github.com:Paraboly/react-native-bouncy-circle-button.git",
